@@ -1,0 +1,8 @@
+We’ve learned that
+people often interrogate
+numbers more
+scrupulously than
+they do other parts of a
+design and are very
+ sensitive to
+  numbers looking “wrong.”
